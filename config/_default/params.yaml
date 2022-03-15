@@ -29,7 +29,7 @@ marketing:
 
 # Site header
 
-header:
+header: My Data Science Journey
   navbar:
     enable: false
 
